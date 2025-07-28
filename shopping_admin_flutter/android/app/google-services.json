@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "292385856722",
+    "project_id": "shopping-app-final-k23",
+    "storage_bucket": "shopping-app-final-k23.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292385856722:android:0dffff941673afde65610b",
+        "android_client_info": {
+          "package_name": "com.example.shopping_admin_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292385856722-r2poeqh7voafara0s76hti74n5otrt5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIyAPeLRpe9UvjgaXTtfNozgwnAnx_Aek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292385856722-qdje5tqh5lbv4nemcmttc8uqkjqvh6m5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "292385856722-k30ro4v5tfarolgq4a3b0tnjs25e1de8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shoppingAdminFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
