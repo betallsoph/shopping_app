@@ -107,14 +107,14 @@ class _ImageUploadWidgetState extends State<ImageUploadWidget> {
   }
 
   Future<void> _removeImage() async {
-    if (_imageUrl != null) {
-      await StorageService.deleteImage(_imageUrl!);
+    // if (_imageUrl != null) {
+    //   await StorageService.deleteImage(_imageUrl!);
       
       setState(() {
         _imageUrl = null;
       });
       widget.onImageUploaded(null);
-    }
+    //}
   }
 
   @override
